@@ -1,2 +1,2 @@
-# ProgrammingFoundations_Data-Structures
+# ProgrammingFoundations_DataStructures
 LinkedIn Learning Course
